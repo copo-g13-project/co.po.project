@@ -1,0 +1,37 @@
+ZA B c o E E. G H 1 J Koj} kk M No
+Newspaper
+. Student i Average — :
+
+; 10 LastName First Name City State Gender pre Major Country Age SAT score (grade) Height (in) cneee
+
+2 11D0E01 JANEOt Los Angeles Califomia ‘Female Graduate Politics us 30 263 er 61 5
+3 2,D0E02 JANEO2 Sedona ‘Asizona Female Undergraduate Math us 19 2006 63 64 7
+4 3 DOEO1 JOE01 Elmira New York Male. Graduate Math us 26 2224 78 B 6
+5 4,D0E02 JOE02 Lackawana New York Male Graduate Econ us 3 1716 78 68 3
+6 5 DOEO3 JOE03 Defiance Ohio Male Graduate Econ us 37 1701 65 n 6
+i 6 DOEO4 JOEO4 Tel Aviv Israel Male Graduate Econ Israel 25 1786 69 67 5
+8 T/DOEOS JOEOS Cimax North Carolina Male Graduate Politics us 39 1677 96 70 5
+9 8 DOEO3 JANE03 Liberal Kansas Female Undergraduate Politics us 2 1842 87 62 5
+10 9 DOEO4 JANES ‘Montreal Canada Female Undergraduate Math Canada 18 1813 El 62 6
+11 40 DOEOS JANES New York New York Female Graduate Math. us 3 2044 nm 66 5
+12 11 DOEOS JOEO6 Hot Coffe Mississippi Male Undergraduate Econ us 8 1787 82 67 3
+13 12,DOE0S ANEO6 Java Virginia Female Graduate Math us 38 1513 79 59 5
+14 13 DOEO7 JOEO7 Varna Bulgaria Male Graduate Politics Bulgaria 30 1637 79 68 4
+16 14,DOE0S JOE08 ‘Moscow Russia Male Graduate Politics Russia 30 1512 70 15 6
+16 15 DOEO7 JANEO? Drunkard Creek New York Female Undergraduate Math us 24 1338 82 64 5
+7 16 DOEOS JANEO8 Mexican Hat Utah Female Undergraduate Econ us 8 1821 80 63 3
+18 17 DOE09 JANE0S Amsterdam Holland Female Undergraduate Math Holland 19 1494 5 60 3
+19 18 DOE10 JANE10 Mexico Mexico Female Graduate Politics Mexico a 2248 95 59 4
+20 419100611 JANE Caracas Venezuela Female Undergraduate Math Venezuela 8 2252 92 68 5
+21 20 DOEOS JOE09 San Juan Puerto Rico Male Graduate Politics us 3 1923 95 63 7
+2 21 DOE12 JANE12 Remote Oregon Female Undergraduate Econ us 19 1727 67 62 7
+23 22,D0E10 JOE10 New York New York Male Undergraduate Econ us 24 1872 82 B 4
+24 23 DOE3 JANE13 The X Massachusetts Female Graduate Politics us 25 1767 89 68 6
+B 24, DOE14 JANE4 Beijing China Female Undergraduate Math China 18 1643 79 65 6
+26 25 DOEN JOEN ‘Stockholm Sweden Male Undergraduate Politics ‘Sweden 19 1919 88 64 4
+21 26 DOE12 JOE12 Embarrass Minnesota Male Graduate Econ us 28 1434 96 ial 4
+28 27 DOE3 JOE13 Intercourse Pennsylvania Male Undergraduate Math us 20 2119 88 ial 5
+29 28 DOES JANES Loco Oklahoma Female Undergraduate Econ us 20 2309 64 68 6
+30 29 DOES JOE Buenos Aires Argentina Male Graduate Politics ‘Argentina 30 2279 85 72 3
+34 30 DOE15 JOE15 ‘Acme Louisiana Male Undergraduate Econ US 19 4907 79 14 3
+
